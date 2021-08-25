@@ -8,6 +8,12 @@
     text-align: center;
 }
 
+.input, .input-p {
+    width: 300px;
+    margin: 20px;
+    align: center;
+}
+
 h1 {
     font-weight: 800;
     font-family: sans-serif;
@@ -36,5 +42,6 @@ h2 {
     height: 70px;
     font-family: cursive;
     font-size: 150%;
+    margin-block-end: 20px;
 
 }
